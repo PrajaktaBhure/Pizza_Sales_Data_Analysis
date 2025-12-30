@@ -25,19 +25,8 @@ The analysis is performed using **SQL, Excel, Python, and Power BI**, following 
 ---
 
 ## 📂 Project Structure
-new_REPO_Pizza_Sales_Analysis
-├── data
-│ ├── raw
-│ └── cleaned
-├── sql
-│ └── pizza_sales_queries.sql
-├── excel
-│ └── pizza_sales_excel_analysis.xlsx
-├── python
-│ └── pizza_sales_analysis.ipynb
-├── powerbi
-│ └── pizza_sales_dashboard.pbix
-└── README.md
+<img width="344" height="315" alt="image" src="https://github.com/user-attachments/assets/db1e5818-232b-4b8c-8c1a-75ba42682e10" />
+
 
 ## 📊 Dataset Description
 The dataset contains pizza sales transaction data including:
