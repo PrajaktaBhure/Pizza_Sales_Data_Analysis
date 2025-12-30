@@ -25,7 +25,9 @@ The analysis is performed using **SQL, Excel, Python, and Power BI**, following 
 ---
 
 ## 📂 Project Structure
-<img width="344" height="315" alt="image" src="https://github.com/user-attachments/assets/db1e5818-232b-4b8c-8c1a-75ba42682e10" />
+<img width="454" height="626" alt="image" src="https://github.com/user-attachments/assets/d42d2181-d542-4db3-9a62-e7faa59ddde0" />
+<img width="409" height="159" alt="image" src="https://github.com/user-attachments/assets/427a0dd1-3683-4216-b9e2-21d2e77deba6" />
+
 
 
 ## 📊 Dataset Description
